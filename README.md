@@ -60,28 +60,4 @@ The code should run on any modern operating system that supports Python.
 
 ---
 
-## Installation
 
-1. Clone or download the repository:
-```bash
-git clone https://gitlab.cim.rhul.ac.uk/zlac262/PROJECT.git
-cd PROJECT
-
-2. Install the required dependency
-pip install numpy
-
-3. Runnning the files
-From the root directory of the repository, run:
-python -m product.Timetabling.benchmarks
-
-4. Travelling Salesman Benchmarks
-each can be run independently from their own file
-for example:
-python product/TSP/TSPNearestNeighbour.py
-
-
-## Installation
-
-A short demonstration video showing the execution of the timetabling benchmarks is available at:
-
-https://www.youtube.com/watch?v=TSVt5sy5Jy8
